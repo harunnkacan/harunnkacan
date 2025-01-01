@@ -1,4 +1,4 @@
-![harunnkacan](https://github.com/user-attachments/assets/e8421811-ea65-4845-b45c-eff08dcc2e97)![MasterHead]()
+![MasterHead]()
 ![](https://komarev.com/ghpvc/?username=harunnkacan&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">

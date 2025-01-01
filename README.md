@@ -7,7 +7,8 @@
 </div>
 
 
-<img src="![harunnkacan](https://github.com/user-attachments/assets/6cd17ab1-83cb-4323-8cb3-858f3585ab57)" alt="Coding" width=1900 height=684 align="center">
+<img src="![harunnkacan](https://github.com/user-attachments/assets/6cd17ab1-83cb-4323-8cb3-858f3585ab57)" alt="Coding" width=1000 height=500
+align="center">
 
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>

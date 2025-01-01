@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/harunnkacan/harunnkacan/blob/main/img/Github%20Banner.jpg)
+![MasterHead]()
 ![](https://komarev.com/ghpvc/?username=harunnkacan&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">

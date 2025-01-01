@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Blockchain**
 
-- 📫 How to reach me **cagatayakkas9191@gmail.com**
+- 📫 How to reach me **harunkcn@icloud.com**
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
 

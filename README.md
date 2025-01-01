@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/harunnkacan-attachments/assets/f576de62-c124-44ca-a61c-1d2fa49c48ac)
+![MasterHead]()
 ![](https://komarev.com/ghpvc/?username=harunnkacan&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
@@ -7,7 +7,7 @@
 </div>
 
 
-<img src="![harunnkacan](https://github.com/user-attachments/assets/368b4835-9357-4fa4-9b81-a10dee70bd05)" alt="Coding"  width=300 height=250 align="center">
+<img src="![EatSleepCodeRepeat](https://github.com/user-attachments/assets/00f8087b-3e54-47cd-a16f-c9472578cf4d)" alt="Coding"  width=300 height=250 align="center">
 
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>

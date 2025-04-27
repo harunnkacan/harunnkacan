@@ -1,4 +1,4 @@
-[![MasterHead](https://geoinnova.org/wp-content/uploads/2021/08/logos.png)
+![MasterHead](https://geoinnova.org/wp-content/uploads/2021/08/logos.png)
 <h1 align="center">Hi 👋, I'm Harun Kaçan</h1>
 <h3 align="center">A passionate Front-End and Graphic Design developer from Turkey</h3>
 
